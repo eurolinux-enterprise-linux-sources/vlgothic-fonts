@@ -11,7 +11,7 @@ but some have also been improved by the project.
 
 Name:		%{fontname}-fonts
 Version:	20130607
-Release:	1%{?dist}
+Release:	2%{?dist}
 Summary:	Japanese TrueType font
 
 License:	mplus and BSD
@@ -76,6 +76,9 @@ done
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 20130607-2
+- Mass rebuild 2013-12-27
+
 * Mon Jun 10 2013 Akira TAGOH <tagoh@redhat.com> - 20130607-1
 - New upstream release. (#972223)
 
